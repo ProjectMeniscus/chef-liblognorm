@@ -1,6 +1,6 @@
 # liblognorm cookbook
 
-Installs liblognorm package and dependencies
+Installs the C library [liblognorm](http://www.liblognorm.com//) for normalizing syslog events.
 
 # Requirements
 
